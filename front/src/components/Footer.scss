@@ -1,0 +1,19 @@
+.footer-container {
+  background-color : #f8f9fa;
+  height: 8em;
+  color: black;
+  margin-top: 20px;
+
+  .linkedin-logo, .github-logo {
+    font-size: 2em;
+    color: black;
+  }
+  .fa-heart {
+    color: red;
+  }
+  p {
+    font-size: 1.2em;
+    margin: 0px;
+  }
+}
+

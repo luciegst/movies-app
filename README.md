@@ -1,6 +1,6 @@
 # Movies APP
 
-##  Technology used
+##  Technologies used
 
 - ReactJS
 - Javascript ES6

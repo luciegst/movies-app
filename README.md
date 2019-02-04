@@ -13,16 +13,16 @@
 
 ## API 
 
-- get **localhost:5000/api/movies**
+- get **localhost:5000/api/movies**,
 Get all movies
 
-- get **localhost:5000/api/search**
+- get **localhost:5000/api/search**,
 Search a movie
 
-- post **localhost:5000/api/new**
+- post **localhost:5000/api/new**,
 Create one movie
 
-- delete **localhost:5000/api/delete/:id**
+- delete **localhost:5000/api/delete/:id**,
 Delete a movie
 
 
